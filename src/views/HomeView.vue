@@ -1,7 +1,9 @@
 <template>
-  <div class="home">
+  <div
+    id="HomeView"
+    class="w-full bg-white ml-2 rounded-t-xl h-full shadow-sm">
   </div>
 </template>
 
-<script>
+<script setup>
 </script>
